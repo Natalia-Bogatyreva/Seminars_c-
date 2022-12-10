@@ -1,0 +1,15 @@
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\bin\Debug\net6.0\Recurs&Arr.exe
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\bin\Debug\net6.0\Recurs&Arr.deps.json
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\bin\Debug\net6.0\Recurs&Arr.runtimeconfig.json
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\bin\Debug\net6.0\Recurs&Arr.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\bin\Debug\net6.0\Recurs&Arr.pdb
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\Recurs&Arr.csproj.AssemblyReference.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\Recurs&Arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\Recurs&Arr.AssemblyInfoInputs.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\Recurs&Arr.AssemblyInfo.cs
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\Recurs&Arr.csproj.CoreCompileInputs.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\Recurs&Arr.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\refint\Recurs&Arr.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\Recurs&Arr.pdb
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\Recurs&Arr.genruntimeconfig.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\Recurs&Arr\obj\Debug\net6.0\ref\Recurs&Arr.dll
