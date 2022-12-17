@@ -1,0 +1,15 @@
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\bin\Debug\net6.0\2array.exe
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\bin\Debug\net6.0\2array.deps.json
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\bin\Debug\net6.0\2array.runtimeconfig.json
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\bin\Debug\net6.0\2array.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\bin\Debug\net6.0\2array.pdb
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\2array.csproj.AssemblyReference.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\2array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\2array.AssemblyInfoInputs.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\2array.AssemblyInfo.cs
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\2array.csproj.CoreCompileInputs.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\2array.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\refint\2array.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\2array.pdb
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\2array.genruntimeconfig.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array\obj\Debug\net6.0\ref\2array.dll
