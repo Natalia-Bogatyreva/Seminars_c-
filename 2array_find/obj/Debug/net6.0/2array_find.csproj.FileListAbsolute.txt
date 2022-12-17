@@ -1,0 +1,15 @@
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\bin\Debug\net6.0\2array_find.exe
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\bin\Debug\net6.0\2array_find.deps.json
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\bin\Debug\net6.0\2array_find.runtimeconfig.json
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\bin\Debug\net6.0\2array_find.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\bin\Debug\net6.0\2array_find.pdb
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\2array_find.csproj.AssemblyReference.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\2array_find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\2array_find.AssemblyInfoInputs.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\2array_find.AssemblyInfo.cs
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\2array_find.csproj.CoreCompileInputs.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\2array_find.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\refint\2array_find.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\2array_find.pdb
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\2array_find.genruntimeconfig.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2array_find\obj\Debug\net6.0\ref\2array_find.dll
