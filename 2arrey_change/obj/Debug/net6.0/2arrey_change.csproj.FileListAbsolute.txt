@@ -1,0 +1,15 @@
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\bin\Debug\net6.0\2arrey_change.exe
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\bin\Debug\net6.0\2arrey_change.deps.json
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\bin\Debug\net6.0\2arrey_change.runtimeconfig.json
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\bin\Debug\net6.0\2arrey_change.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\bin\Debug\net6.0\2arrey_change.pdb
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\2arrey_change.csproj.AssemblyReference.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\2arrey_change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\2arrey_change.AssemblyInfoInputs.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\2arrey_change.AssemblyInfo.cs
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\2arrey_change.csproj.CoreCompileInputs.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\2arrey_change.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\refint\2arrey_change.dll
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\2arrey_change.pdb
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\2arrey_change.genruntimeconfig.cache
+C:\Users\79603\Desktop\Учеба\дз\C#\Seminars\2arrey_change\obj\Debug\net6.0\ref\2arrey_change.dll
